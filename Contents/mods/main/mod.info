@@ -1,8 +1,5 @@
-id=ChuckTemplate
-name=ChuckTemplate
-description= 
+name=Game Night - ADDON_NAME
+id=gamenight_ADDON_NAME
+description=
 poster=poster.png
-tags=Build 41
-versionMin=41.0
-
-
+require=gamenight
